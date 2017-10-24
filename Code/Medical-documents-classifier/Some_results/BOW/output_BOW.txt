@@ -1,0 +1,19 @@
+KNN classifier with k : 10
+span : 80
+tf_idf : False
+Set:
+Accuracy : 0.851317272093148
+RECALL
+Recall 0: 0.99203
+Recall 1: 0.34879
+Recall mean: 0.67041
+Recall weighted average: 0.85132
+PRECISION
+Precision 0: 0.84473
+Precision 1: 0.92458
+Precision mean: 0.88465
+Precision weighted average: 0.86220
+F1 score weighted average: 0.82366
+CONFUSSION MATRIX
+[[ 14444.    116.]
+ [  2655.   1422.]]
